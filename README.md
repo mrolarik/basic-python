@@ -1,2 +1,2 @@
-# basic-python
+# basic python tutorial
 basic python program
