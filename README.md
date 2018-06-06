@@ -2,6 +2,7 @@
 
 ## Contents  
 - [Variables, expressions and statements]()  
+- [string](https://github.com/mrolarik/basic-python/blob/master/string.ipynb)
 - [list](https://github.com/mrolarik/basic-python/blob/master/list.ipynb)  
   -- [Sample: contact list]()
 - [numpy array](https://github.com/mrolarik/basic-python/blob/master/numpy-array.ipynb)  
