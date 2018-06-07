@@ -2,6 +2,7 @@
 
 ## Contents  
 - [string](https://github.com/mrolarik/basic-python/blob/master/string.ipynb)
+- [functions](https://github.com/mrolarik/basic-python/blob/master/function.ipynb)
 - [list](https://github.com/mrolarik/basic-python/blob/master/list.ipynb)  
 - [numpy array](https://github.com/mrolarik/basic-python/blob/master/numpy-array.ipynb)  
   -- [Sample: shopping list](https://github.com/mrolarik/basic-python/blob/master/shopping_list.py)
