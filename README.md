@@ -2,9 +2,9 @@
 
 ## Contents  
 - [string](https://github.com/mrolarik/basic-python/blob/master/string.ipynb)
-- Loops  
-  -- [For Loops](https://github.com/mrolarik/basic-python/blob/master/for-loops.ipynb)  
-  -- [While Loops]()  
+- loops  
+  -- [for loops](https://github.com/mrolarik/basic-python/blob/master/for-loops.ipynb)  
+  -- [while loops]()  
 - [functions](https://github.com/mrolarik/basic-python/blob/master/function.ipynb)
 - [list](https://github.com/mrolarik/basic-python/blob/master/list.ipynb)  
 - [numpy array](https://github.com/mrolarik/basic-python/blob/master/numpy-array.ipynb)  
