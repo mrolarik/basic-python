@@ -6,7 +6,9 @@
 - loops  
   -- [for loops](https://github.com/mrolarik/basic-python/blob/master/for-loops.ipynb)  
   -- [while loops](https://github.com/mrolarik/basic-python/blob/master/while-loops.ipynb)  
-- [functions](https://github.com/mrolarik/basic-python/blob/master/function.ipynb)
+- [functions](https://github.com/mrolarik/basic-python/blob/master/function.ipynb)  
+  -- [function file](https://github.com/mrolarik/basic-python/blob/master/func/fn.py)  
+  -- [calling function](https://github.com/mrolarik/basic-python/blob/master/func/calling_function.ipynb)
 - [switch-case](https://github.com/mrolarik/basic-python/blob/master/switch-case.ipynb)
 - [list](https://github.com/mrolarik/basic-python/blob/master/list.ipynb)  
   -- [Sample: contact list](https://github.com/mrolarik/basic-python/blob/master/list-example.py)  
