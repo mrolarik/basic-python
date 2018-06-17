@@ -83,6 +83,8 @@ def delete_shopping_list(shopping_list, shopping_price):
 def main():
 	shopping_list = ['pen']
 	shopping_price = np.array([20])
+	#shopping_list = []
+	#shopping_price = np.array([])
 	
 	while True:
 		menu = show_menu()
