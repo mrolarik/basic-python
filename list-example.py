@@ -33,8 +33,7 @@ def show():
     print '='*20
     for n, t in zip(name, tel):
         print n, t
-
-    #time.sleep(3)
+        
     print 
     tmp = raw_input('Enter any key to continue ')
     if(tmp != ''):
@@ -47,8 +46,6 @@ def add():
     t = raw_input('Enter a telephone no.: ')
     tel.append(t)
     time.sleep(3)
-
-
 
 def main():
     while True:
@@ -63,6 +60,3 @@ def main():
 
 if __name__ == "__main__":
     main()
-
-
-#--> $ python list.py
