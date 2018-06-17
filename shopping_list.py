@@ -5,7 +5,6 @@ import time
 
 dash_no = 30
 
-
 def show_menu():
 	os.system('clear')
 	print "="*dash_no
