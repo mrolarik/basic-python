@@ -67,21 +67,22 @@ def delete_shopping_list(shopping_list, shopping_price):
 		remove_list = input("Enter item number: ")
 	
 		if(remove_list <= shopping_price.shape[0]):
-			rm_list = shopping_list.pop(remove_list-1)
+			tmp_list = shopping_list.pop(remove_list-1)
 			tmp_price = shopping_price[remove_list-1]
 			shopping_price = np.delete(shopping_price,(remove_list-1))
+                        new_price = shopping_price
 		
-			print "Remove item: ", rm_list, tmp_price, "\n"
+			print "Remove item: ", tmp_list, tmp_price, "\n"
 			show_shopping_list(shopping_list, shopping_price, show='false')
 			time.sleep(1)
 		else:
 			print "Number out of range"
-
+	return new_price
 
 # start program
 def main():
-	shopping_list = []
-	shopping_price = np.array([])
+	shopping_list = ['pen']
+	shopping_price = np.array([20])
 	
 	while True:
 		menu = show_menu()
@@ -97,7 +98,7 @@ def main():
 			show_shopping_list(shopping_list, shopping_price, show='false')
 			time.sleep(1)
 		elif(menu == 3):
-			delete_shopping_list(shopping_list, shopping_price)
+			shopping_price = delete_shopping_list(shopping_list, shopping_price)
 
 		if(menu == 4):
 			os.system('clear')
@@ -108,4 +109,3 @@ def main():
 
 if __name__ == "__main__":
 	main()	
-
