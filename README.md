@@ -14,5 +14,5 @@
   -- [sample: contact list](https://github.com/mrolarik/basic-python/blob/master/list-example.py)  
   -- [program: contact list](https://github.com/mrolarik/basic-python/blob/master/contact-list.py)
 - [numpy array](https://github.com/mrolarik/basic-python/blob/master/numpy-array.ipynb)  
-  -- [Sample: shopping list](https://github.com/mrolarik/basic-python/blob/master/shopping_list.py)
+  -- [sample: shopping list](https://github.com/mrolarik/basic-python/blob/master/shopping_list.py)
 - [file](https://github.com/mrolarik/basic-python/blob/master/file.ipynb)  
