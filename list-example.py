@@ -58,8 +58,6 @@ def main():
             show()
         elif(name_menu == 'add'):
             add()
-        elif(name_menu == 'delete'):
-            delete()
         elif(name_menu == 'exit'):
             sys.exit()
 
