@@ -1,5 +1,8 @@
 # Basic Python Program Tutorial
 
+## Configuration
+- [Setup](https://github.com/mrolarik/basic-python/wiki)
+
 ## Contents  
 - [Variables, expressions, and statements](https://github.com/mrolarik/basic-python/blob/master/variable.ipynb)
 - [string](https://github.com/mrolarik/basic-python/blob/master/string.ipynb)
