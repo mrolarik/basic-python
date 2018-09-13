@@ -1,9 +1,11 @@
 # Basic Python Program Tutorial
 
-## Configuration
-- [Setup](https://github.com/mrolarik/basic-python/wiki)
+## ติดตั้งโปรแกรมเพื่อใช้ในการเขียนโปรแกรมภาษา Python บน Windows
+* [ดาวน์โหลดและติดตั้ง Python 3 บน Windows](https://github.com/mrolarik/basic-python/wiki/Download-and-Installing-Python3)
+* [pip - Package Management System in Python](https://github.com/mrolarik/basic-python/wiki/pip-Package-Management-System-in-Python)
+* [ติดตั้งโปรแกรม Jupyter](https://github.com/mrolarik/basic-python/wiki/Installing-Jupyter-Notebook)
 
-## Contents  
+## เริ่มเขียนโปรแกรม Python - Basic Python
 - [Variables, expressions, and statements](https://github.com/mrolarik/basic-python/blob/master/variable.ipynb)
 - [string](https://github.com/mrolarik/basic-python/blob/master/string.ipynb)
 - loops  
