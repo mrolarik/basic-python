@@ -16,7 +16,7 @@
   -- [calling function](https://github.com/mrolarik/basic-python/blob/master/func/calling_function.ipynb)
 - [switch-case](https://github.com/mrolarik/basic-python/blob/master/switch-case.ipynb)
 - [list](https://github.com/mrolarik/basic-python/blob/master/list.ipynb)  
-  -- [sample: phone number](https://github.com/mrolarik/basic-python/blob/master/phone-number-list.py)
+  -- [sample: phone number](https://github.com/mrolarik/basic-python/blob/master/phone-number-list.py)  
   -- [sample: contact list](https://github.com/mrolarik/basic-python/blob/master/list-example.py)  
   -- [program: contact list](https://github.com/mrolarik/basic-python/blob/master/contact-list.py)
 - [numpy array](https://github.com/mrolarik/basic-python/blob/master/numpy-array.ipynb)  
