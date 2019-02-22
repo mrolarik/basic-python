@@ -7,6 +7,7 @@
 
 ## เริ่มเขียนโปรแกรม Python - Basic Python
 - [Variables, expressions, and statements](https://github.com/mrolarik/basic-python/blob/master/variable.ipynb)
+- [try-except](https://github.com/mrolarik/basic-python/blob/master/try_except.ipynb)
 - [string](https://github.com/mrolarik/basic-python/blob/master/string.ipynb)
 - loops  
   -- [for loops](https://github.com/mrolarik/basic-python/blob/master/for-loops.ipynb)  
