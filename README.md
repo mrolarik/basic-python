@@ -9,6 +9,7 @@
 - [Variables, expressions, and statements](https://github.com/mrolarik/basic-python/blob/master/variable.ipynb)
 - [try-except](https://github.com/mrolarik/basic-python/blob/master/try_except.ipynb)
 - [string](https://github.com/mrolarik/basic-python/blob/master/string.ipynb)
+- [if condition](https://github.com/mrolarik/basic-python/blob/master/if-else-condition.ipynb)
 - loops  
   -- [for loops](https://github.com/mrolarik/basic-python/blob/master/for-loops.ipynb)  
   -- [while loops](https://github.com/mrolarik/basic-python/blob/master/while-loops.ipynb)  
