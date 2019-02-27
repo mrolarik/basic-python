@@ -22,6 +22,7 @@
 - [list](https://github.com/mrolarik/basic-python/blob/master/list.ipynb)  
   -- [list](https://github.com/mrolarik/basic-python/blob/master/List-example-01.ipynb)  
   -- [list and for-loop](https://github.com/mrolarik/basic-python/blob/master/list_for_loop.ipynb)  
+  -- [list: append](https://github.com/mrolarik/basic-python/blob/master/list_append.ipynb)  
   -- [sample: phone number](https://github.com/mrolarik/basic-python/blob/master/phone-number-list.py)  
   -- [sample: contact list](https://github.com/mrolarik/basic-python/blob/master/list-example.py)  
   -- [program: contact list](https://github.com/mrolarik/basic-python/blob/master/contact-list.py)
